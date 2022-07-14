@@ -1,4 +1,4 @@
-package com.activitysheet.Activity.Sheet.Management;
+package com.activitysheet.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
